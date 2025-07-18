@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I’m Taher Elmatbouly, a passionate Computer Science student at MSA University, driven by building real-world applications and solving complex problems with AI, Data Science, and Full-Stack Web Development.<br><br>🚀 I’ve led and developed projects ranging from predictive healthcare apps using Python and ML to scalable full-stack platforms using Next.js and MySQL — all with hands-on experience managing teams and delivering production-ready systems.<br><br>📚 I hold certifications from IBM, Oracle, Meta, and Google, and I’m an active contributor to initiatives like Digital Egypt Pioneers, where I led a group in building AI-powered health solutions.
+# 💫 Hello, I'm Taher Elmatbouly:
+👋 A passionate Computer Science student at MSA University, driven by building real-world applications and solving complex problems with AI, Data Science, and Full-Stack Web Development.<br><br>🚀 I’ve led and developed projects ranging from predictive healthcare apps using Python and ML to scalable full-stack platforms using Next.js and MySQL — all with hands-on experience managing teams and delivering production-ready systems.<br><br>📚 I hold certifications from IBM, Oracle, Meta, and Google, and I’m an active contributor to initiatives like Digital Egypt Pioneers, where I led a group in building AI-powered health solutions.
 
 
 # 💻 Tech Stack:
@@ -8,9 +8,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=tahermatbouly&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=tahermatbouly&theme=shadow_blue&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tahermatbouly&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tahermatbouly&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tahermatbouly&icon=0&color=0)](https://visitcount.itsvg.in)
