@@ -1,5 +1,13 @@
-# 💫 Hello, I'm Taher Elmatbouly:
-👋 A passionate Computer Science student at MSA University, driven by building real-world applications and solving complex problems with AI, Data Science, and Full-Stack Web Development.<br><br>🚀 I’ve led and developed projects ranging from predictive healthcare apps using Python and ML to scalable full-stack platforms using Next.js and MySQL — all with hands-on experience managing teams and delivering production-ready systems.<br><br>📚 I hold certifications from IBM, Oracle, Meta, and Google, and I’m an active contributor to initiatives like Digital Egypt Pioneers, where I led a group in building AI-powered health solutions.
+# 💫 Hello, I'm Taher Elmatbouly
+
+👋 A Computer Science student at MSA University and an aspiring **AI/ML Engineer**, passionate about building practical AI systems and turning ideas into real-world products.
+
+🤖 My work spans **Machine Learning, Generative AI, LLMs, RAG, AI Agents, NLP, and Backend Development**, with hands-on experience building systems using Python, FastAPI, LangChain, LangGraph, Qdrant, PostgreSQL, and modern web technologies. I enjoy working on projects that combine AI with scalable software engineering—from intelligent document assistants and GitHub code analysis to voice-based AI agents and data-driven applications.
+
+🚀 Alongside development, I’ve gained experience working in teams, leading technical projects, and building production-oriented systems through internships and university initiatives. I’m continuously exploring how to move AI models from experimentation into reliable, useful applications.
+
+📚 I’ve completed certifications and training from **IBM, Oracle, Google, and Meta**, and have participated in programs such as **Digital Egypt Pioneers (DEPI)**, where I led a team while developing AI-powered solutions.
+
 
 
 ## 🌐 Socials:
